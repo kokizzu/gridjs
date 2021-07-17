@@ -10,7 +10,6 @@ node_modules/
 coverage
 
 # Transpiled files
-build/
 dist/
 
 # VS Code
@@ -32,3 +31,8 @@ dist/
 
 # Lerna
 .changelog
+
+tests/dev-server/build
+tests/dev-server/size-plugin.json
+tests/cypress/snapshots
+tests/cypress/videos
