@@ -89,7 +89,7 @@
     "postcss-scss": "^4.0.4",
     "postcss-sort-media-queries": "^4.1.0",
     "prettier": "~2.7.1",
-    "rimraf": "~3.0.2",
+    "rimraf": "~4.1.1",
     "sass": "^1.54.5",
     "source-map-loader": "^4.0.0",
     "start-server-and-test": "^1.12.3",
